@@ -44,6 +44,11 @@ export default async function Page({
                         <h1 className="text-3xl font-bold tracking-tight">
                             NextJS Remote Search Filter Demo
                         </h1>
+                        <h3 className="text-xl font-bold tracking-tight py-2">
+                            <a href="https://github.com/oludotun/nextjs-search-filter">
+                                See code on GitHub
+                            </a>
+                        </h3>
                     </div>
                     <div className="py-2">
                         <SearchBar />
