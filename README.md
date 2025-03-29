@@ -1,4 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# NextJS Remote Search Filter Demo
+
+A demonstration project showcasing real-time remote search filtering capabilities with infinite scroll using Next.js. This project serves as a practical example of implementing efficient search functionality and smooth data loading in modern web applications.
+
+## Project Overview
+
+This demo implements a remote search filter with infinite scroll pagination that allows users to search through large datasets in real-time, demonstrating best practices for handling user input, API integration, pagination, and state management in Next.js applications.
+
+## Features
+
+-   Real-time search filtering
+-   Infinite scroll pagination
+-   Dynamic data loading
+-   Server-side data fetching
+-   Responsive design
+-   Optimized performance with debouncing
+-   TypeScript integration
+
+## Tech Stack
+
+-   [Next.js](https://nextjs.org) - React framework for production
+-   TypeScript - For type safety
+-   React Query - For efficient data fetching
+-   Tailwind CSS - For styling
+-   React Intersection Observer - For infinite scroll functionality
 
 ## Getting Started
 
@@ -24,8 +48,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
