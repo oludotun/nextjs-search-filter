@@ -6,6 +6,10 @@ A demonstration project showcasing real-time remote search filtering capabilitie
 
 This demo implements a remote search filter with infinite scroll pagination that allows users to search through large datasets in real-time, demonstrating best practices for handling user input, API integration, pagination, and state management in Next.js applications.
 
+## Live Demo
+
+You can view the live demo [here https://nextjs-search-filter.vercel.app/](https://nextjs-search-filter.vercel.app/)
+
 ## Features
 
 -   Real-time search filtering
